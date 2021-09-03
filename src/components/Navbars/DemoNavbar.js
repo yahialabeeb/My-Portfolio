@@ -109,17 +109,17 @@ class DemoNavbar extends React.Component {
                   </Row>
                 </div>
                 <Nav className="navbar-nav-hover align-items-lg-center" navbar>
-              
+
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-collection d-lg-none mr-1" />
                       <span className="nav-link-inner--text">Menu</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/landing-page" tag={Link}>
-                        Landing
+                      <DropdownItem to="/portfolio" tag={Link}>
+                        portfolio
                       </DropdownItem>
-                      <DropdownItem to="/profile-page" tag={Link}>
+                      <DropdownItem to="/profile" tag={Link}>
                         Profile
                       </DropdownItem>
                     </DropdownMenu>
@@ -142,7 +142,7 @@ class DemoNavbar extends React.Component {
                       Like us on Facebook
                     </UncontrolledTooltip>
                   </NavItem>
-              
+
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
@@ -175,7 +175,7 @@ class DemoNavbar extends React.Component {
                       Star us on Github
                     </UncontrolledTooltip>
                   </NavItem>
-              
+
                 </Nav>
               </UncontrolledCollapse>
             </Container>
