@@ -81,13 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                       Tech is awonderful world{" "}
+                        Tech is A Wonderful World{" "}
                         <span>It is really excited</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      Since I was at high school , I always intersted in logical things and problem solver. and this what i finf in tech
                       </p>
 
                     </Col>
@@ -125,12 +123,11 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            Bus mall
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            do market analysis on proposed products to test their customer interest before getting the manufacturing wheels in motion.
+                            BusMall is an app that displays three displayed images and allow customer to choose 
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -146,10 +143,10 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="#pablo"
+                            href="https://yahialabeeb.github.io/BusMall/"
                             onClick={e => e.preventDefault()}
                           >
-                            Learn more
+                            Show it
                           </Button>
                         </CardBody>
                       </Card>
@@ -161,31 +158,19 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            Book Shop
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            A webpageto order a book to atable so you van track books in my system
+                            also, user can view thier names, number of pages and price
                           </p>
-                          <div>
-                            <Badge color="success" pill className="mr-1">
-                              business
-                            </Badge>
-                            <Badge color="success" pill className="mr-1">
-                              vision
-                            </Badge>
-                            <Badge color="success" pill className="mr-1">
-                              success
-                            </Badge>
-                          </div>
                           <Button
                             className="mt-4"
                             color="success"
-                            href="#pablo"
+                            href="https://yahialabeeb.github.io/Books-Shop/"
                             onClick={e => e.preventDefault()}
                           >
-                            Learn more
+                            Show it
                           </Button>
                         </CardBody>
                       </Card>
@@ -197,31 +182,18 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                            Horned Animals
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            A react app than render images and filter them depending on numbers of horn
                           </p>
-                          <div>
-                            <Badge color="warning" pill className="mr-1">
-                              marketing
-                            </Badge>
-                            <Badge color="warning" pill className="mr-1">
-                              product
-                            </Badge>
-                            <Badge color="warning" pill className="mr-1">
-                              launch
-                            </Badge>
-                          </div>
                           <Button
                             className="mt-4"
                             color="warning"
-                            href="#pablo"
+                            href="https://yahia-horned-animal.netlify.app/"
                             onClick={e => e.preventDefault()}
                           >
-                            Learn more
+                            Show it
                           </Button>
                         </CardBody>
                       </Card>
