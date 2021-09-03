@@ -85,7 +85,7 @@ class Landing extends React.Component {
                         <span>It is really excited</span>
                       </h1>
                       <p className="lead text-white">
-                      Since I was at high school , I always intersted in logical things and problem solver. and this what i finf in tech
+                      Since I was at high school , I was intersted in logical things and problem solveing. and this what i find in tech
                       </p>
 
                     </Col>
@@ -126,7 +126,7 @@ class Landing extends React.Component {
                             Bus mall
                           </h6>
                           <p className="description mt-3">
-                            do market analysis on proposed products to test their customer interest before getting the manufacturing wheels in motion.
+                            Do market analysis on proposed products to test their customer interest before getting the manufacturing wheels in motion.
                             BusMall is an app that displays three displayed images and allow customer to choose 
                           </p>
                           <div>
